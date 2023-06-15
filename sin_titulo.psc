@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso longitudyAreaCuadrado
 	definir lado, area, perimetro Como Entero;
 	lado<-0; area<-0; perimetro<-0;
 	escribir "por favor la longitud de un lado del cuadrado: ";
